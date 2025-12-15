@@ -1,16 +1,16 @@
-## Hi there 👋
+🚀 QA Automation Portfolio | Junior
+<div align="center">
+https://via.placeholder.com/800x200/0D1117/FFFFFF?text=QA+Automation+Engineer
 
-<!--
-**Konohive/Konohive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white
+https://img.shields.io/badge/TestNG-red?style=for-the-badge
+https://img.shields.io/badge/Allure%2520Report-FF4A36?style=for-the-badge
 
-Here are some ideas to get you started:
+📧 Email: your.email@example.com
+📱 Telegram: @yourusername
+💼 LinkedIn: linkedin.com/in/yourname
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+🎯 Обо мне
+Начинающий QA Automation Engineer. Недавно завершил обучение, сейчас активно развиваюсь в автоматизации тестирования. Готов к сложным задачам и быстрому обучению.
